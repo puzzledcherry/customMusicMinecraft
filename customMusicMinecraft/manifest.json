@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-        "version": [0, 0, 1],
+        "description": "minecraft bedrock mod w custom music discs for me and friends :)",
+        "name": "best minecraft music",
+        "uuid": "302df7a1-9843-4e15-9a66-8fd3beb21b65",
+        "version": [ 0, 0, 1 ],
         "min_engine_version": [ 1, 19, 0 ]
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "minecraft bedrock mod w custom music discs for me and friends :)",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
-            "version": [0, 0, 1]
+            "uuid": "b3fe3948-adef-4db8-b2f6-dce516bb3a10",
+            "version": [ 0, 0, 1 ]
         }
     ]
 }
