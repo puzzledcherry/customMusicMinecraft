@@ -11,8 +11,8 @@ far: City Girls - Chris Brown & Young Thug </br>
 mall: No Guidance - Chris Brown & Drake </br>
 mellohi: Blinding Lights - The Weeknd </br>
 otherside: DJ Got Us Falling In Love - Usher </br>
-pigstep: 
-stal:
+pigstep: </br>
+stal: </br>
 strad: Never Gonna Give You Up - Rick Astley </br>
 wait: Get Into It (YUH) - Doja Cat </br>
 ward: Peril - Halo 2 </br>
