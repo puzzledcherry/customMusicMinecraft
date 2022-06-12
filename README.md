@@ -19,7 +19,7 @@ ward:       Peril - Halo 2 </br>
 
 
 ### resources
-MP3 convert: tinyurl.com/m3xubh8r </br>
+MP3 convert: [tinyurl.com/m3xubh8r](https://getx.topsandtees.space/7D5EPxd2QFk/b1aDK8JJY4Sl5jRoxowNcDR6QE96Dni82j5OD7oo/mp3_128) </br>
 OGG/Mono convertor: https://www.audacityteam.org/download/mac/ </br>
 uuid generator: https://www.uuidgenerator.net/ </br>
 vanilla pack: https://feedback.minecraft.net/hc/en-us/articles/4414295731725-Bedrock-Add-On-Templates </br>
