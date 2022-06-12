@@ -8,7 +8,7 @@ blocks: 3 Outfits by Tai Verdes </br>
 
 
 ### resources
-youtube convertor: https://getx.topsandtees.space/YDCmn_F7vbY/jJa6z9bbnmhNr0V4O4MkTg4znprzg7i49k0onVqK/mp3_128 </br>
+MP3 convertor: https://getx.topsandtees.space/YDCmn_F7vbY/jJa6z9bbnmhNr0V4O4MkTg4znprzg7i49k0onVqK/mp3_128 </br>
 audio convertor: https://www.audacityteam.org/download/mac/ </br>
 uuid generator: https://www.uuidgenerator.net/ </br>
 vanilla pack: https://feedback.minecraft.net/hc/en-us/articles/4414295731725-Bedrock-Add-On-Templates </br>
