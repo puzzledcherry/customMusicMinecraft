@@ -20,7 +20,7 @@ ward: Peril - Halo 2 </br>
 
 ### how to use
 Import the .mcpack file into minecraft bedrock edition. For me, since I play on console, this means </br>
-getting the mcpack file into minecraft pocket edition. To do this, I airdropped the file to my phone, which </br>
+getting the .mcpack file into minecraft pocket edition. To do this, I airdropped the file to my phone, which </br>
 then prompted an "open in minecraft pe" option in the airdrop recieve window. From there, it should automatically </br>
 import to your (global) resource packs and be ready for activation :)) </br>
 
